@@ -15,7 +15,7 @@ This project includes an extensive suite of tests designed to validate the funct
 - State Transition Testing: Validates how the system transitions between different states (e.g., login/logout, course registration states).
 
 ### Reports submitted
-- Testcases report : [testcases report] (https://github.com/rahmaabdelkader2/Comprehensive-Software-Testing-for-account-management-and-course-registration/blob/main/Reports/testcase_report.xlsx)
-- Bug report       : [Bug Report] (https://github.com/rahmaabdelkader2/Comprehensive-Software-Testing-for-account-management-and-course-registration/blob/main/Reports/Bug_report.xlsx)
-- Summary report   : [Summary] (https://github.com/rahmaabdelkader2/Comprehensive-Software-Testing-for-account-management-and-course-registration/blob/main/Reports/Test_Summary%20report.xlsx)
+- Testcases report : [testcases report](https://github.com/rahmaabdelkader2/Comprehensive-Software-Testing-for-account-management-and-course-registration/blob/main/Reports/testcase_report.xlsx)
+- Bug report       : [Bug Report](https://github.com/rahmaabdelkader2/Comprehensive-Software-Testing-for-account-management-and-course-registration/blob/main/Reports/Bug_report.xlsx)
+- Summary report   : [Summary](https://github.com/rahmaabdelkader2/Comprehensive-Software-Testing-for-account-management-and-course-registration/blob/main/Reports/Test_Summary%20report.xlsx)
 
